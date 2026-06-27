@@ -5,3 +5,29 @@ This project is designed for the programming learners in Japanese. If you are no
 
 ## プログラミング学習環境「かえで」
 
+### 使い方
+
+1. 必要なファイルを２つ読み込む
+
+```html
+<head>
+  <link rel="stylesheet" href="https://caed.app/style.css" />
+</head>
+<body>
+  <script src="https://caed.app/v0.11.0.js"></script>
+</body>
+```
+
+CSS と JS ファイルを読み込みます。
+
+2. JavaScript で「エディタを表示する」
+
+```html
+<script>
+  高さ = 720 // 任意の高さを設定します
+  エディタを表示する
+</script>
+```
+
+`<script>` タグの中で、上記コードを呼び出します。
+
