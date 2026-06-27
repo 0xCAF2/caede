@@ -1,8 +1,11 @@
 {
   "name": "caede",
-  "module": "index.ts",
-  "type": "module",
   "private": true,
+  "type": "module",
+  "module": "index.ts",
+  "scripts": {
+    "build": "bun build public/index.html --outdir ."
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "oxfmt": "^0.56.0",
