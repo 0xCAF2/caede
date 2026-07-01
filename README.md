@@ -1,9 +1,9 @@
 # caede
 
 NOTICE:
-This project is designed for the programming learners in Japanese. If you are not a Japanese speaker, please be aware that the content may not be fully understandable.
+This project is designed for the programming learners in Japanese. If you are not a Japanese speaker, please be aware that the content may not be useful.
 
-## プログラミング学習環境「かえで」
+## プログラミング学習環境「かえで」構築ツール
 
 ### 使い方
 
@@ -33,4 +33,4 @@ CSS と JS ファイルを読み込みます。
 
 ### 問い合わせ先
 
-「かえで」に関する質問や不具合の報告は caede@0xcaf2.dev までお願いします。
+「かえで」に関するご質問や不具合の報告は caede@0xcaf2.dev までお願いします。
